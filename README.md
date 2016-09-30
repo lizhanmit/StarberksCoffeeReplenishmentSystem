@@ -1,0 +1,1 @@
+This is a system with command-line interface enables Starberk to manage the replenishment of different products they sell in two different stores. Calculate the optimal order quantity using EOQ (Economic Order Quantity) method. Figure out the best replenishment strategy. Calculate the total cost and profit. Read existing product data from and save new data to the file. 
